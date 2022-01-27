@@ -2,3 +2,10 @@ banana
 melancia
 morango
 manga
+caju
+acerola
+pessego
+laranja
+goiaba
+limao
+uva
